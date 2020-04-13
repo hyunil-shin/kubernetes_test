@@ -1,3 +1,4 @@
-https://codingbee.net/tutorials/kubernetes/hello-world-pods
-https://codingbee.net/tutorials/kubernetes/hello-world-services
+### 참고.
+* https://codingbee.net/tutorials/kubernetes/hello-world-pods
+* https://codingbee.net/tutorials/kubernetes/hello-world-services
 
