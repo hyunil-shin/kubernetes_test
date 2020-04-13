@@ -1,4 +1,6 @@
 
+### 참고
+* https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
 ### 확인
 ```
